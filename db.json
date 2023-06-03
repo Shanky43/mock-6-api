@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "email": "shankar@gmail.com",
+      "password": "12345678",
+      "firstname": "sdfasdf",
+      "lastname": "sadfasdf",
+      "avatar": "C:\\fakepath\\R.jpeg",
+      "id": 1
+    },
+    {
+      "email": "shankar@gmail.com",
+      "password": "12345678",
+      "firstname": "sdfasdf",
+      "lastname": "sadfasdf",
+      "avatar": "C:\\fakepath\\R.jpeg",
+      "id": 2
+    },
+    {
+      "email": "shankar@gmail.com",
+      "password": "12345678",
+      "firstname": "sdfasdf",
+      "lastname": "sadfasdf",
+      "avatar": "https://th.bing.com/th/id/OIP.-KpHW7tr6hZOXtLax7JZaAHaIA?pid=ImgDet&rs=1",
+      "id": 3
+    },
+    {
+      "email": "shanky@gmail.com",
+      "password": "123456789",
+      "firstname": "asdfkasndf",
+      "lastname": "sadfasdf",
+      "avatar": "https://avatars.githubusercontent.com/u/112791993?v=4",
+      "id": 4
+    },
+    {
+      "email": "shank43@gmail.com",
+      "password": "123456",
+      "firstname": "shankar",
+      "lastname": "shanky",
+      "avatar": "https://avatars.githubusercontent.com/u/112791993?v=4",
+      "id": 5
+    }
+  ],
+  "forum": [
+    {
+      "userName": "shankar",
+      "date_time": "2023-06-03",
+      "answers": 0,
+      "questionTitle": "about react",
+      "questionDescription": "what is react?",
+      "upvotes": 0,
+      "userAvatar": "https://avatars.githubusercontent.com/u/112791993?v=4",
+      "language": "react",
+      "id": 1
+    },
+    {
+      "userName": "shankar",
+      "date_time": "2023-06-03",
+      "answers": 0,
+      "questionTitle": "CSS",
+      "questionDescription": "what is css?",
+      "upvotes": 0,
+      "userAvatar": "https://avatars.githubusercontent.com/u/112791993?v=4",
+      "language": "react",
+      "id": 2
+    },
+    {
+      "userName": "shankar",
+      "date_time": "2023-06-03",
+      "answers": 0,
+      "questionTitle": "asdfasd",
+      "questionDescription": "asdfasdf",
+      "upvotes": 0,
+      "userAvatar": "https://avatars.githubusercontent.com/u/112791993?v=4",
+      "language": "",
+      "id": 3
+    }
+  ]
+}
